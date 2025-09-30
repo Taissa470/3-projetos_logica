@@ -6,7 +6,7 @@ nome:Taissa  N:33
 (●'◡'●)Calculadora básica
 
 
-╰(*°▽°*)╯Conversor de temperaturas
+(❁´◡`❁)Conversor de temperaturas
 
 
 (●ˇ∀ˇ●)Inversão de string
